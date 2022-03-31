@@ -1,7 +1,7 @@
 #<h1 align="center">Hi 👋, I'm Harry Wheadon</h1>
 <h3 align="center">A passionate Programmer from England</h3>
 
-- 🔭 I’m currently working on Pacman **Pacman**
+- 🔭 I’m currently working on **Mario**
 
 - 🌱 I’m currently learning C++ **Computer Games Programming**
 
