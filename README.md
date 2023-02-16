@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **A top down shooter in Unreal Engine 5**
 
-- 🌱 I’m currently learning C++ **Computer Games Programming**
+- I have experience in **C++, OpenGL and DirectX11** and have worked many 2D and 3D games
+
+- I’m currently learning Java in my free time and am learning C# in my **Computer Games Programming** course
 
 - 📫 How to reach me **HarryWheadon@gmail.com**
 
